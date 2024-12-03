@@ -1,2 +1,2 @@
 # Bengkelinaja_ProjectPBO
-Project ini dikersajakan secara berkelompok dengan menggunakan bahasa C#
+Project ini dikerjakan secara berkelompok dengan menggunakan bahasa C#
